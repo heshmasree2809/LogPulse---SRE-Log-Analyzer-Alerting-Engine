@@ -1,0 +1,6 @@
+{
+  "name": "LogPulse - SRE Log Analyzer & Alerting Engine",
+  "description": "High-performance Apache/Nginx log analyzer processing 500K+ lines, with error spike detection, slow request diagnosis, Bash/Python regex script generators, and Slack/Email alerting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
